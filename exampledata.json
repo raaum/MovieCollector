@@ -1,0 +1,126 @@
+{
+"categories" : [
+{
+"catName" : "Action",
+"persist" : true
+},
+{
+"catName" : "Adventure",
+"persist" : true
+},
+{
+"catName" : "Comedy",
+"persist" : true
+},
+{
+"catName" : "Documentary",
+"persist" : true
+},
+{
+"catName" : "Drama",
+"persist" : true
+},
+{
+"catName" : "Horror",
+"persist" : true
+},
+{
+"catName" : "Mystery",
+"persist" : true
+},
+{
+"catName" : "Romance",
+"persist" : true
+},
+{
+"catName" : "Sci-Fi",
+"persist" : true
+},
+{
+"catName" : "Thriller",
+"persist" : true
+}
+],
+"items" : [
+{
+"title"    : "Get Down to Bizness",
+"poster"   : "images/motivate.jpg",
+"catId"    : "1",
+"persist"  : true,
+"synopsis" : "Scores of people attend motivational conferences to better themselves and others.",
+"actors"   : "Ben Whittington, Michael Mathers",
+"rating"   : "R",
+"year"     : "1975"
+},
+{
+"title"    : "Back it Up",
+"poster"   : "images/spinal.jpg",
+"catId"    : "1",
+"persist"  : true,
+"synopsis" : "Real-life chiropractors perform spinal miracles on skeptical patients.",
+"actors"   : "Mitch Smith, Judy Madison",
+"rating"   : "PG-13",
+"year"     : "2000"
+},
+{
+"title"    : "Solar Powered Madness",
+"poster"   : "images/calc.jpg",
+"catId"    : "1",
+"persist"  : true,
+"synopsis" : "Calculators gather sun strength and perform ridiculous calculations.",
+"actors"   : "Mitch Smith, Judy Madison",
+"rating"   : "R",
+"year"     : "1992"
+},
+{
+"title"    : "Great White Sharks",
+"poster"   : "images/sharks.jpg",
+"catId"    : "2",
+"persist"  : true,
+"synopsis" : "A team of lawyers in rural South Dakota part ways after a brutal landslide disrupts the town residents.",
+"actors"   : "Fred Barns, Martha May",
+"rating"   : "R",
+"year"     : "1986"
+},
+{
+"title"    : "Take a Tour",
+"poster"   : "images/tour.jpg",
+"catId"    : "3",
+"persist"  : true,
+"synopsis" : "Johnny Youth tours the world after winning the Heisman Trophy",
+"actors"   : "Bart Simpson, Marge Simpson",
+"rating"   : "G",
+"year"     : "1984"
+},
+{
+"title"    : "Hillary Greer's Opus",
+"poster"   : "images/nun.jpg",
+"catId"    : "1",
+"persist"  : true,
+"synopsis" : "Hillary takes to the stage at a school for nuns.",
+"actors"   : "Gertrude Silverstein, Uni Vanh",
+"rating"   : "MA",
+"year"     : "1989"
+},
+{
+"title"    : "Swift Justice in St. Petersburg",
+"poster"   : "images/swiftjustice.jpg",
+"catId"    : "2",
+"persist"  : true,
+"synopsis" : "Russian diplomats seek revenge after a terrorist attack.",
+"actors"   : "Captain Vince Miller, Harvey Whitaker",
+"rating"   : "R",
+"year"     : "2012"
+},
+{
+"title"    : "Blood Hounds 3",
+"poster"   : "images/hounds.jpg",
+"catId"    : "1",
+"persist"  : true,
+"synopsis" : "3 blood thirsty dogs attack a gang of wolves and win.",
+"actors"   : "Fly North, Tyler Best",
+"rating"   : "NC-17",
+"year"     : "2011"
+}
+]
+}
